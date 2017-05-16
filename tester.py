@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 26 13:34:00 2017
-
-@author: RudradeepGuha
-"""
 
 from keras.models import load_model
 import numpy as np
