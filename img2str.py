@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon May  1 19:12:04 2017
-
-@author: RudradeepGuha
-"""
 
 import cv2
 import os
