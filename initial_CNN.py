@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 23 15:41:07 2017
-
-@author: RudradeepGuha
-"""
 
 from keras.preprocessing.image import ImageDataGenerator
 from keras.models import Sequential
