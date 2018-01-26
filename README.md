@@ -1,4 +1,4 @@
-# Emotionless
+# Masquerade
 A deep learning model for facial expression recognition in images.
 
 A Convolutional Neural Network is used to classify facial expressions into one of 7 classes: Neutral, Anger, Disgust, Fear, Sad, Happy and Surprise.
